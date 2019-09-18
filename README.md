@@ -1,8 +1,4 @@
-# Project Title
-
-Slides-DeleteHyperLinks
-
-## Introduction
+# Slides-DeleteHyperLinks
 
 This small Google Script is for removing any and all hyperlinks found in a Google Slides presentation.
 
@@ -38,4 +34,4 @@ Just grant access, proceed at own risk but I promise there's no malicius intent 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
